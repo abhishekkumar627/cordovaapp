@@ -1,0 +1,2 @@
+# cordovaapp
+cordova hello app
